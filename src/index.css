@@ -1,0 +1,16 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Mulish&family=Poppins:wght@600;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Mulish', sans-serif,'Dancing Script';
+
+}
+.navbar{
+  background-color: red !important;
+}
+.navbar-brand{
+  color:blueviolet !important;
+  font-size: 2rem !important;
+  font-weight: bolder;
+} */
